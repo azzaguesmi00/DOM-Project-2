@@ -23,7 +23,7 @@ body {
 #change-color-btn {
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #0daa4c;
+    background-color: #b743c7;
     border: none;
     color: white;
     cursor: pointer;
@@ -31,5 +31,5 @@ body {
 }
 
 #change-color-btn:hover {
-    background-color: #203b2c;
+    background-color: #4a184e;
 }
