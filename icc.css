@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 499px;
     margin: 0;
     background-color: #bba2a2;
 }
@@ -23,7 +23,7 @@ body {
 #change-color-btn {
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #abebc5;
+    background-color: #0daa4c;
     border: none;
     color: white;
     cursor: pointer;
